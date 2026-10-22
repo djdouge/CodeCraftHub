@@ -1,147 +1,80 @@
-# Douglas Robinson
+# Douglas Robinson — Cybersecurity Portfolio
 
-**Cybersecurity Management & Policy Student | U.S. Army Veteran | GRC, RMF & Security Risk | Technical Projects**
+**Cybersecurity Management & Policy Student | U.S. Army Veteran | GRC • RMF • NIST • Technical Projects**
 
-Baltimore, Maryland  
-[GitHub](https://github.com/djdouge)
+**Live portfolio:** https://djdouge.github.io/CodeCraftHub/  
+**LinkedIn:** https://linkedin.com/in/douglas-robinson-29ab6088  
+**GitHub:** https://github.com/djdouge  
+**Location:** Baltimore, Maryland
 
-## Professional Profile
+## About This Repository
 
-I am a U.S. Army veteran transitioning into cybersecurity while pursuing a **B.S. in Cybersecurity Management & Policy at the University of Maryland Global Campus (UMGC)**. My background combines 17 years of military service, security-focused operations, leadership, procedural compliance, technical problem-solving, and approximately 20 years of independent fitness and performance consulting.
+This repository powers my public cybersecurity portfolio. It is designed to show practical work behind the résumé: risk analysis, security-control assessment, RMF thinking, executive communication, systems troubleshooting, and technical project development.
 
-My current cybersecurity focus is **governance, risk, and compliance (GRC); NIST frameworks; Risk Management Framework (RMF); security controls; information assurance; networking; and security policy**. I am building practical projects alongside my degree work so employers can evaluate what I can actually do—not just what classes I have taken.
+I am a U.S. Army veteran pursuing a **B.S. in Cybersecurity Management & Policy at the University of Maryland Global Campus (UMGC)** and building toward GRC, RMF, information assurance, security-control, risk/compliance, analyst, government, and defense-sector cybersecurity roles.
 
-## Cybersecurity Focus
+## Cybersecurity Proof of Work
 
-- Governance, Risk & Compliance (GRC)
-- NIST Cybersecurity Framework (CSF)
-- NIST Risk Management Framework (RMF)
-- NIST SP 800-53 security controls
-- Risk identification, assessment, prioritization, and documentation
-- Security policy and procedural compliance
-- Information assurance and security-control concepts
-- Networking fundamentals and CompTIA Network+ preparation
-- Windows and PowerShell fundamentals
-- Access-control, permissions, privacy, and system-boundary concepts
-- Technical documentation and evidence-based testing
+The GRC case studies use a **fictional organization and simulated evidence** so the work can be reviewed publicly without representing practice work as paid client experience.
 
-## Education
+- [Risk Register & Treatment Plan](https://djdouge.github.io/CodeCraftHub/artifacts/risk-register.html) — eight prioritized risks with likelihood, impact, treatment, owners, remediation, and target residual risk.
+- [NIST SP 800-53 Control Assessment](https://djdouge.github.io/CodeCraftHub/artifacts/control-assessment.html) — ten sample control reviews with evidence, findings, assessment results, and remediation recommendations.
+- [NIST RMF Case Study](https://djdouge.github.io/CodeCraftHub/artifacts/rmf-case-study.html) — Prepare through Monitor, including a sample authorization package, POA&M, and continuous-monitoring metrics.
+- [Executive Cyber Risk Brief](https://djdouge.github.io/CodeCraftHub/artifacts/executive-risk-brief.html) — business impact, 90-day priorities, accountable owners, KPIs, and requested leadership decisions.
+- [GRC Portfolio Overview](https://djdouge.github.io/CodeCraftHub/projects/grc.html) — methodology and primary NIST references used across the case studies.
 
-### University of Maryland Global Campus (UMGC)
-**Bachelor of Science — Cybersecurity Management & Policy**  
-*In Progress*
-
-Current and planned study includes cybersecurity management, information systems, networking, security policy, risk management, and supporting technical coursework.
-
-### American InterContinental University
-**Business Administration Coursework**  
-66 credits completed
-
-## Projects
+## Technical Projects
 
 ### N.E.M.O. — Neural Execution & Mission Orchestrator
-**Local-First AI Assistant & Computer-Work Orchestrator — Active Private Project**
 
-N.E.M.O. is an offline-first desktop AI system being developed around locally hosted language models and controlled computer-work execution. The project is used to build hands-on experience with system design, testing, permissions, data handling, reliability, and technical troubleshooting.
+[Project case study](https://djdouge.github.io/CodeCraftHub/projects/nemo.html)
 
-Key areas of work include:
-
-- Local LLM integration and model routing
-- Offline-first architecture and privacy boundaries
-- Permission controls and approval gates
-- Controlled access to local resources
-- Failure recovery and execution-state handling
-- Persistent context and data-handling rules
-- Acceptance testing and regression testing
-- System-boundary validation
-- Reliability and error-condition testing
-- Windows-based troubleshooting and technical documentation
-
-### Cybersecurity GRC Portfolio — In Development
-
-Practical portfolio work is being organized around realistic business-security scenarios and NIST-based controls. Planned and in-progress deliverables include:
-
-- Risk assessments
-- Risk registers
-- NIST CSF mappings
-- NIST RMF implementation exercises
-- NIST SP 800-53 control analysis
-- Security-policy documentation
-- Control implementation and audit evidence examples
-- Executive-level security findings and remediation summaries
+Active private offline-first desktop AI project involving local-model integration, permission and approval gates, privacy boundaries, execution-state handling, failure recovery, regression/acceptance testing, and Windows troubleshooting. Private implementation details are intentionally not published.
 
 ### Macro Tracker Plus
 
-Personal software project involving application development, privacy documentation, testing, and technical problem-solving. A public privacy-policy repository is available on this GitHub account; primary development work is maintained separately.
+Personal software project involving application development, privacy documentation, testing, and technical problem-solving. Public privacy repository: https://github.com/djdouge/macro-tracker-plus-privacy
 
-## Military Experience
+## Core Cybersecurity Focus
 
-### United States Army | 1997–2014
-**Combat Engineer | Heavy Equipment Operations | Security Operations | E-5**
+- Governance, Risk & Compliance (GRC)
+- NIST Cybersecurity Framework (CSF) 2.0
+- NIST Risk Management Framework (RMF)
+- NIST SP 800-53 security controls and assessment concepts
+- Risk identification, prioritization, treatment, and documentation
+- Security-control evidence and remediation tracking
+- Information assurance and access-control concepts
+- Networking fundamentals and CompTIA Network+ preparation
+- Windows and PowerShell fundamentals
+- Technical documentation and executive risk communication
 
-Military experience included work in environments where safety, procedural compliance, accountability, risk awareness, and protection of personnel and mission-critical assets were mandatory.
+## Education & Development
 
-Relevant experience includes:
+- **University of Maryland Global Campus** — B.S. Cybersecurity Management & Policy, in progress
+- **CompTIA Network+ (N10-009)** — current study
+- Google cybersecurity coursework
+- IBM generative AI coursework
+- American InterContinental University — business administration coursework, 66 credits completed
+- ISSA / NASM training and performance credentials
 
-- Security operations and controlled-area procedures
-- F-22 flight-line security support
-- Patrol and access-control responsibilities
-- Protection of personnel, equipment, and sensitive areas
-- Risk assessment and situational awareness
-- Following and enforcing established procedures
-- Mission planning, accountability, and documentation
-- Team leadership and training
-- High-consequence decision-making under operational constraints
+## Experience
 
-## Professional Experience
+### United States Army | 1997–2014 | E-5
+Combat Engineer • Heavy Equipment Operations • Security Operations
 
-### Independent Fitness & Performance Consultant
-**Self-Employed | Approximately 20 Years**
+Experience included controlled-area procedures, patrol and access-control responsibilities, protection of personnel and equipment, F-22 flight-line security support, risk awareness, procedural compliance, accountability, training, and team leadership.
 
-Built and managed long-term client relationships while delivering individualized performance, strength, nutrition, and weight-management services in both in-person and remote environments.
+### Independent Fitness & Performance Consultant | ~20 years
 
-Transferable strengths include:
+Long-term client management, assessment, risk awareness, program planning, documentation, technical communication, scheduling, coaching, and performance measurement.
 
-- Client assessment and risk awareness
-- Program planning and documentation
-- Communicating technical information in practical terms
-- Long-term client management and accountability
-- Independent operations and scheduling
-- Training, coaching, and performance measurement
+## Résumé
 
-## Certifications & Current Study
+- [View web résumé](https://djdouge.github.io/CodeCraftHub/resume.html)
+- [Download public PDF résumé](https://djdouge.github.io/CodeCraftHub/Douglas_Robinson_Public_Resume.pdf)
 
-- **CompTIA Network+ (N10-009)** — Current study
-- **CompTIA Security+** — Planned / career-development track
-- **Google Cybersecurity Professional Certificate coursework**
-- **IBM Generative AI coursework**
-- ISSA Certified Personal Trainer
-- ISSA Performance Enhancement Specialist
-- ISSA Strength & Conditioning Specialist
-- ISSA Bodybuilding Specialist
-- ISSA Nutrition Specialist
-- NASM Weight Management Specialist
-- Glute Specialist
-- University of Colorado Boulder — Science of Exercise coursework
-- The Chinese University of Hong Kong — Musculoskeletal Anatomy coursework
+The public résumé intentionally omits private phone and email information.
 
 ## Target Roles
 
-I am currently building toward opportunities such as:
-
-- Junior Cybersecurity Analyst
-- GRC Analyst / Junior GRC Analyst
-- Information Assurance Analyst
-- Junior ISSO / RMF Support
-- Security Control Assessment support
-- Cybersecurity Risk or Compliance Analyst
-- Cybersecurity Internship / Apprenticeship
-- Government or defense-sector cybersecurity support roles
-
-## What I Bring
-
-My career transition does not start from zero. I bring a long background in disciplined operations, security awareness, accountability, leadership, training, risk-based decision-making, and working within defined procedures. I am now adding formal cybersecurity education, technical skills, certifications, and hands-on projects to that foundation.
-
----
-
-**Current objective:** Build demonstrable cybersecurity experience while completing my degree and move into a role where GRC, RMF, security controls, risk analysis, or information assurance are part of the day-to-day work.
+Junior Cybersecurity Analyst • GRC Analyst • RMF / ISSO Support • Information Assurance • Security Control Assessment Support • Cybersecurity Risk / Compliance • Internship / Apprenticeship • Government / Defense Cybersecurity Support
