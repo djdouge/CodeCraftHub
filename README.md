@@ -3,7 +3,7 @@
 **Cybersecurity Management & Policy Student | U.S. Army Veteran | GRC, RMF & Security Risk | Technical Projects**
 
 Baltimore, Maryland  
-[LinkedIn](https://www.linkedin.com/in/douglas-robinson-29ab6088/) | [GitHub](https://github.com/djdouge)
+[GitHub](https://github.com/djdouge)
 
 ## Professional Profile
 
